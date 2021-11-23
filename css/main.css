@@ -363,6 +363,7 @@ img {
 
 .stat-col-item-txt p {
     margin: 0;
+    text-transform: uppercase;
 }
 
 .stat-col-item-txt > h3 {
@@ -437,7 +438,7 @@ img {
 }
 
 .progressbar-three > div {
-    width: 70%;
+    width: 0%;
 }
 
 /* _____________________howiwork__________________ */
@@ -661,6 +662,9 @@ img {
     transition: all 0.4s ease-in;
 }
 
+.writeme2 {
+    
+}
 .myform-box-btn:hover {
     background: #25f1d6;
     color: #000;
